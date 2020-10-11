@@ -1,6 +1,6 @@
 .ipynb_checkpoints
 submission.csv
 
-02 Home Credit Default Risk/application_test.csv
-02 Home Credit Default Risk/application_train.csv
-02 Home Credit Default Risk/sample_submission.csv
+application_test.csv
+application_train.csv
+sample_submission.csv
